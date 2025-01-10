@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cycle8-crossing_jpg.rf.f4851014b279d1fa0c8395149aefbcec.jpg</filename>
+	<path>cycle8-crossing_jpg.rf.f4851014b279d1fa0c8395149aefbcec.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CYCLE CROSSING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>243</xmax>
+			<ymin>58</ymin>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

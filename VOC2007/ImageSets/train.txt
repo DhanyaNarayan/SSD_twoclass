@@ -1,0 +1,13 @@
+VOC2007/JPEGImages/cycle1-crossing_jpg.rf.63b6450a168bf7ab34990e2bd2f40751.jpg
+VOC2007/JPEGImages/cycle2-crossing_jpg.rf.71163c8fd72f10618bd855feb1697e3f.jpg
+VOC2007/JPEGImages/cycle3-crossing_jpg.rf.dcc44939128db7f83b809fafbb513e22.jpg
+VOC2007/JPEGImages/cycle4-crossing_jpg.rf.fb5095ccf269f5795678e92d79a58317.jpg
+VOC2007/JPEGImages/cycle6-crosssing_jpg.rf.0282e2a46664f4be9873fcc22b91dfce.jpg
+VOC2007/JPEGImages/cycle7-crossing_jpg.rf.5df81ddec043b531ca1d422043dc9072.jpg
+VOC2007/JPEGImages/cycle8-crossing_jpg.rf.f4851014b279d1fa0c8395149aefbcec.jpg
+VOC2007/JPEGImages/cycle9-crossing_jpg.rf.a7fa20d5a47ecb73124e7c341074fe32.jpg
+VOC2007/JPEGImages/stop3_jpg.rf.5915fb6335c67529adade7237a38e5b9.jpg
+VOC2007/JPEGImages/stop4_jpg.rf.267e9b8d66d8a1cf0bac2393074e36d2.jpg
+VOC2007/JPEGImages/stop5_jpg.rf.bfdc52f5e798c0bca195b72d25ce24b2.jpg
+VOC2007/JPEGImages/stop6_jpg.rf.8e95e17bc9ba1748e9de92ce2e899430.jpg
+VOC2007/JPEGImages/stop8_jpg.rf.bf9496d51349be658d814e977fb4792f.jpg

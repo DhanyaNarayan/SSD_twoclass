@@ -1,0 +1,3 @@
+VOC2007/JPEGImages/cycle5-crossing_jpg.rf.6e98f1cc40e9a52f3bf219afdcd97f7c.jpg
+VOC2007/JPEGImages/stop1_jpg.rf.103a65d3261b9fa4ac3d82e5789d5ac6.jpg
+VOC2007/JPEGImages/stop7_jpg.rf.94ec96a73e995f0e36cf93e80e5b788c.jpg

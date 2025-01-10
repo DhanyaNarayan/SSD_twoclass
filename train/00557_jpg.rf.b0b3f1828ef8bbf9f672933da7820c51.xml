@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00557_jpg.rf.b0b3f1828ef8bbf9f672933da7820c51.jpg</filename>
+	<path>00557_jpg.rf.b0b3f1828ef8bbf9f672933da7820c51.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slippery road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>71</xmax>
+			<ymin>175</ymin>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>give way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>113</xmax>
+			<ymin>174</ymin>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

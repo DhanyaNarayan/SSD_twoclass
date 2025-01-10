@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>00502_jpg.rf.a1a1567f1b5ccac3bc135d09129aa573.jpg</filename>
+	<path>00502_jpg.rf.a1a1567f1b5ccac3bc135d09129aa573.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>20</xmax>
+			<ymin>210</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NO ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>135</xmax>
+			<ymin>209</ymin>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>keep right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>132</xmax>
+			<ymin>218</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>images-2025-01-08T221109_861_jpeg.rf.3cf270822c1e0069ae94967a7fd4a5a6.jpg</filename>
+	<path>images-2025-01-08T221109_861_jpeg.rf.3cf270822c1e0069ae94967a7fd4a5a6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>go left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>255</xmax>
+			<ymin>18</ymin>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

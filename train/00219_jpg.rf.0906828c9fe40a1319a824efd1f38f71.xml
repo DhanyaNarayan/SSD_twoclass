@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00219_jpg.rf.0906828c9fe40a1319a824efd1f38f71.jpg</filename>
+	<path>00219_jpg.rf.0906828c9fe40a1319a824efd1f38f71.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>give way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>239</xmin>
+			<xmax>256</xmax>
+			<ymin>103</ymin>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>go right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>242</xmin>
+			<xmax>254</xmax>
+			<ymin>131</ymin>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
