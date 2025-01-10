@@ -24,8 +24,8 @@ slim = tf.contrib.slim
 
 VOC_LABELS = {
     'none': (0, 'Background'),
-    'headphone': (1, 'headphone'),
-    'earphone': (2, 'earphone'),
+    'CYCLE CROSSING': (1, 'CYCLE CROSSING'),
+    'STOP': (2, 'STOP'),
 }
 
 

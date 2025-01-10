@@ -181,8 +181,10 @@ def run(dataset_dir, output_dir, name='voc_train', shuffling=False):
 
 
 #Original dataset path, output path and output file name
-dataset_dir = "D:/env_conda_1.14_for_SSD/SSD_CUSTOM/VOC2007/"   #"/voc2007/"
-output_dir = "D:/env_conda_1.14_for_SSD/SSD_CUSTOM/tfrecords/"
+dataset_dir = "./VOC2007/"   #"/voc2007/"
+output_dir = "./tfrecords/"
+# dataset_dir = "D:/env_conda_1.14_for_SSD/SSD_CUSTOM/VOC2007/"   #"/voc2007/"
+# output_dir = "D:/env_conda_1.14_for_SSD/SSD_CUSTOM/tfrecords/"
 name = "voc_2007_train"
 
 
